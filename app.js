@@ -45,7 +45,7 @@ alert(int1/int2);
 // alert('2を掛け続けて' + max + 'を超えるのに必要だった回数は' + count + '回です');
 
 
-// for文　（）
+// for文　（指定した回数だけ処理を繰り返す）
 let i;
 let num = 0;
 
